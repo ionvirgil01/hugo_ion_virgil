@@ -18,7 +18,12 @@ author: admin
 #  css_class: fullscreen
 ---
 
-👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
-{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+👋 Hello! I’m **Ion Virgil**, and I’m a statistician. Data is a strong enough passion for me that I’ve managed to build something meaningful out of it — especially because, surprisingly, I discover new things every day, from fields I never imagined I’d explore.
+
+I adapt my style and technical knowledge based on my clients’ needs, combining programming with any statistical software, and I approach complex analyses with genuine interest.
+
+Data analysis doesn’t follow a one-size-fits-all template — on the contrary, each analysis needs to be approached with precision and, of course, with results that are easy to explain.
+
+If you need my help or have questions about what I can do for you, feel free to reach out on LinkedIn, Instagram, or Facebook.
 
 Check out my [resumé](/about/) and portfolio below 😍
